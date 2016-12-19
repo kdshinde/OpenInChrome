@@ -1,0 +1,6 @@
+c:\users\kdshinde\documents\visual studio 2015\Projects\OpenInChrome\OpenInChrome\bin\Debug\OpenInChrome.exe.config
+c:\users\kdshinde\documents\visual studio 2015\Projects\OpenInChrome\OpenInChrome\bin\Debug\OpenInChrome.exe
+c:\users\kdshinde\documents\visual studio 2015\Projects\OpenInChrome\OpenInChrome\bin\Debug\OpenInChrome.pdb
+c:\users\kdshinde\documents\visual studio 2015\Projects\OpenInChrome\OpenInChrome\obj\Debug\OpenInChrome.csprojResolveAssemblyReference.cache
+c:\users\kdshinde\documents\visual studio 2015\Projects\OpenInChrome\OpenInChrome\obj\Debug\OpenInChrome.exe
+c:\users\kdshinde\documents\visual studio 2015\Projects\OpenInChrome\OpenInChrome\obj\Debug\OpenInChrome.pdb
